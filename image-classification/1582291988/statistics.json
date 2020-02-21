@@ -1,0 +1,1 @@
+{"training": {"images": {"dog": {"num": 931}, "cat": {"num": 431}}, "validations": {"dog": {"num": 931}, "cat": {"num": 431}}, "command": " /home/imagemonkey/bin/monkey train --labels=dog|cat --type=image-classification", "based_on": "inception_v3"}, "created": "2020-02-21 13:20", "trained_on": ["dog", "cat"]}
